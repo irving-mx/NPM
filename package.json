@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "administrador de paquetes npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irving-mx/NPM.git"
+  },
+  "author": "Irving Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irving-mx/NPM/issues"
+  },
+  "homepage": "https://github.com/irving-mx/NPM#readme"
+}
